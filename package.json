@@ -1,0 +1,18 @@
+{
+  "name": "mosca-mqtt-broker",
+  "version": "1.0.0",
+  "description": "Basic MQTT broker using mosca",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mqtt",
+    "mosca"
+  ],
+  "author": "Jake Helme",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^2.5.2"
+  }
+}
